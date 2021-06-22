@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+compiled/dfs
+floydWarshall
+log.txt
+.gitignore
+.vscode/launch.json
+.vscode/tasks.json
+compiled/test
+dijkstra
+dfs
