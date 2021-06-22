@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "utils.c"
+#include "../utils.c"
 
 typedef struct Heap Heap;
 struct Heap {
