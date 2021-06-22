@@ -6,6 +6,7 @@ int countingSort(int arr[], int arr_size, int *b_arr, int range){
     printf("asdasdasdadadada\n");
     for (int i = 0; i <= range; i++){
         c_arr[i] = 0;
+        
     }
     for (int j = 1; j <= arr_size; j++){
         c_arr[arr[j]] = c_arr[arr[j]] + 1;
